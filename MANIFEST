@@ -1,0 +1,8 @@
+Changes
+MANIFEST
+INSTALL
+README
+TODO
+Makefile.PL
+Search.pm
+t/imaptest.t

@@ -1,0 +1,4 @@
+Add a method that returns the number of attachments if any
+Add in a sort by date method
+Add in a remove dup message method
+Add in some fetching subroutines for headers, body, attachments
